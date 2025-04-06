@@ -7,6 +7,7 @@ Beispielsweise kann der Impuls und damit die Energie eines Teilchens aus den im 
 Nicht jedes Event oder jede Reihe in dem Datensatz repräsentieren drei Kaonen, sondern können auch Pionen oder Myonen enthalten. Falls die Teilchen in einem Event Pionen oder Myonen enthalten, darf angenommen werden, dass die Teilchen des Events kein Zerfallsprodukt eines B-Mesons sind.
 
 Der Datensatz, sowie Informationen zu dem Experiment stammen von folgender Quelle: [Matter Antimatter Differences (B meson decays to three hadrons) - Data Files | CERN Open Data Portal](https://opendata.cern.ch/record/4900)
+Um das Python-Skript ausführen zu können, muss von dem angegebenen Link die Datei B2HHH_MagnetDown.root heruntergeladen werden. Diese Datei muss sich dann in einem Ordner mit dem Namen "data" befinden. Dieser soll sich am Schluss in einem Ordner mit dem Python-Skript befinden, dessen Inhalt im Folgenden erklärt wird. 
 
 ## Python-Skript zur Datenaufbereitung
 
